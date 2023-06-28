@@ -1,0 +1,42 @@
+{
+    "dogs":[
+        {
+            "nome": "Lhasa Apso",
+            "origem": "Tibet",
+            "classificacao": "Cães de companhia",
+            "tamanho": "Pequeno",
+            "peso": "4.5 - 6.8 kg",
+            "altura": "25 - 28 cm",
+            "expectativa_de_vida": "12 - 15 anos",
+            "temperamento": "Independente, Alerta, Corajoso",
+            "pelagem": "Longa",
+            "cores": "Várias cores, incluindo dourado, areia, mel, preto, branco e combinações bicolor",
+            "necessidades_de_exercicio": "Moderado",
+            "necessidades_de_cuidados": "Escovação regular, banhos ocasionais, cuidados dentários, atenção especial aos olhos e orelhas",
+            "personalidade": "Dignificado, leal, afetuoso, reservado com estranhos",
+            "historia": "O Lhasa Apso é uma antiga raça originária das montanhas do Tibet, onde eram criados em mosteiros e palácios como cães de companhia e sentinelas.",
+            "curiosidades": "Na cultura tibetana, o Lhasa Apso é considerado um cão sagrado e acredita-se que traz sorte e felicidade para os lares em que vive.",
+            "imagem": "https://exemplo.com/imagem_border_collie.jpg"
+          },
+          {
+            "nome": "Border Collie",
+            "origem": "Reino Unido",
+            "classificacao": "Cães de trabalho",
+            "tamanho": "Médio",
+            "peso": "12 - 20 kg",
+            "altura": "46 - 56 cm",
+            "expectativa_de_vida": "12 - 15 anos",
+            "temperamento": "Inteligente, ágil, energético",
+            "pelagem": "Dupla, com pelo médio a longo",
+            "cores": "Preto e branco, vermelho e branco, azul merle, tricolor e outras variações",
+            "necessidades_de_exercicio": "Alto",
+            "necessidades_de_cuidados": "Escovação regular, cuidados com a pelagem, atenção especial à saúde ocular e ortopédica",
+            "personalidade": "Dedicado, trabalhador, alerta, altamente treinável",
+            "historia": "O Border Collie é uma raça de pastoreio desenvolvida na fronteira entre a Inglaterra e a Escócia, conhecida por sua habilidade excepcional de pastorear rebanhos com obediência e precisão.",
+            "curiosidades": "O Border Collie é considerado uma das raças de cachorro mais inteligentes e é amplamente utilizado em competições de pastoreio e em atividades esportivas caninas.",
+            "imagem": "https://exemplo.com/imagem_border_collie.jpg"
+          }
+          
+          
+    ]
+}
