@@ -16,7 +16,7 @@
             "personalidade": "Dignificado, leal, afetuoso, reservado com estranhos",
             "historia": "O Lhasa Apso é uma antiga raça originária das montanhas do Tibet, onde eram criados em mosteiros e palácios como cães de companhia e sentinelas.",
             "curiosidades": "Na cultura tibetana, o Lhasa Apso é considerado um cão sagrado e acredita-se que traz sorte e felicidade para os lares em que vive.",
-            "imagem": "https://exemplo.com/imagem_border_collie.jpg"
+            "image": "https://raw.githubusercontent.com/BaioSystems/dogdex-db/main/lhasa.png"
           },
           {
             "nome": "Border Collie",
@@ -34,7 +34,7 @@
             "personalidade": "Dedicado, trabalhador, alerta, altamente treinável",
             "historia": "O Border Collie é uma raça de pastoreio desenvolvida na fronteira entre a Inglaterra e a Escócia, conhecida por sua habilidade excepcional de pastorear rebanhos com obediência e precisão.",
             "curiosidades": "O Border Collie é considerado uma das raças de cachorro mais inteligentes e é amplamente utilizado em competições de pastoreio e em atividades esportivas caninas.",
-            "imagem": "https://exemplo.com/imagem_border_collie.jpg"
+            "image": "https://raw.githubusercontent.com/BaioSystems/dogdex-db/main/bordercollie.png"
           }
           
           
