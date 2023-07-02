@@ -16,7 +16,7 @@
       "personalidade": "Confidente, enérgico, divertido",
       "historia": "O Affenpinscher é uma raça antiga, originária da Alemanha, e era originalmente utilizado para caçar roedores em casas, celeiros e lojas.",
       "curiosidades": "Devido à sua aparência única e expressiva, o Affenpinscher é frequentemente comparado a um pequeno macaco.",
-      "imagem": "https://exemplo.com/imagem_affenpinscher.jpg"
+      "imagem": "https://raw.githubusercontent.com/BaioSystems/dogdex-db/main/Affenpinscher.png"
     },
     {
       "nome": "Afghan Hound",
@@ -34,7 +34,7 @@
       "personalidade": "Distinto, digno, afetuoso",
       "historia": "O Afghan Hound é uma raça antiga originária do Afeganistão, onde era utilizado para caçar presas de grande porte nas montanhas e desertos.",
       "curiosidades": "O Afghan Hound é conhecido por sua aparência elegante e pelo seu pelo longo e sedoso, que requer cuidados especiais para mantê-lo saudável e bonito.",
-      "imagem": "https://exemplo.com/imagem_afghan_hound.jpg"
+      "imagem": "https://raw.githubusercontent.com/BaioSystems/dogdex-db/main/Afghan_Hound.png"
     },
     {
       "nome": "Airedale Terrier",
@@ -51,7 +51,9 @@
       "necessidades_de_cuidados": "Escovação regular, cuidados com a pelagem, atenção à saúde dental e ocular",
       "personalidade": "Alegre, confiante, protetor",
       "historia": "O Airedale Terrier é considerado a maior raça de terrier e era originalmente criado para caçar lontras nas margens dos rios Aire e Wharfe, no condado de Yorkshire, na Inglaterra.",
-      "curiosidades": "O Airedale Terrier é conhecido como o 'Rei dos Terriers' devido ao seu tamanho e habilidades versáteis."
+      "curiosidades": "O Airedale Terrier é conhecido como o 'Rei dos Terriers' devido ao seu tamanho e habilidades versáteis.",
+      "imagem": "https://raw.githubusercontent.com/BaioSystems/dogdex-db/main/Airedale_Terrier.png"
+
     },
     {
       "nome": "Akita",
@@ -68,7 +70,8 @@
       "necessidades_de_cuidados": "Escovação regular, cuidados com a pelagem, atenção especial à saúde articular e ocular",
       "personalidade": "Fiel, protetor, independente",
       "historia": "O Akita é uma raça ancestral do Japão, originalmente utilizado para caça de grandes animais, como ursos. É uma raça altamente reverenciada no Japão e símbolo de lealdade e coragem.",
-      "curiosidades": "O Akita é conhecido por sua expressão facial única, incluindo as orelhas eretas e a cauda em forma de pêndulo."
+      "curiosidades": "O Akita é conhecido por sua expressão facial única, incluindo as orelhas eretas e a cauda em forma de pêndulo.",
+      "imagem": "https://raw.githubusercontent.com/BaioSystems/dogdex-db/main/Akita.png"
     },
     {
       "nome": "Lhasa Apso",
